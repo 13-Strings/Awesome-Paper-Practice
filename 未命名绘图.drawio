@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" border="50" scale="3" compressed="false" locked="false" version="28.2.9">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2297" dy="1306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2132" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -441,14 +441,23 @@
             <mxRectangle width="113" height="119" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnHOp9NjUS2ck-nnjXFK-1" value="分子性质引导pretrain多任务学习&amp;lt;分子性质融入GNN节点学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GnHOp9NjUS2ck-nnjXFK-1" value="分子性质引导pretrain多任务学习&amp;lt;分子性质融入GNN节点学习" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="913.75" y="859.88" width="402" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GnHOp9NjUS2ck-nnjXFK-2" value="已对TARGET信息做了修复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GnHOp9NjUS2ck-nnjXFK-2" value="已对TARGET信息做了修复" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1336" y="527" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GnHOp9NjUS2ck-nnjXFK-3" value="问题：&lt;div&gt;1.融入TARGET的信息之后效果更差，说明TARGET被当成噪声&lt;/div&gt;&lt;div&gt;2.没有改进办法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GnHOp9NjUS2ck-nnjXFK-3" value="问题：&lt;div&gt;1.融入TARGET的信息之后效果更差，说明TARGET被当成噪声&lt;/div&gt;&lt;div&gt;2.没有改进办法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1375" y="617" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0askwB1zXcG8LPx2N2cC-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=36;endSize=5.22;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1658" y="157" as="sourcePoint" />
+            <mxPoint x="1823" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0askwB1zXcG8LPx2N2cC-3" value="五折划分&lt;div&gt;早停延长patience到20&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1977" y="140" width="241" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
