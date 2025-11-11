@@ -361,7 +361,7 @@
             <mxRectangle width="114" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-bmnZo9d6NH_4iZwWQW-57" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="r-bmnZo9d6NH_4iZwWQW-54">
+        <mxCell id="r-bmnZo9d6NH_4iZwWQW-57" value="MAE: 0.7723&amp;nbsp;&lt;div&gt;RMSE: 0.9706 Pearson: 0.0442 Spearman: 0.0507&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="r-bmnZo9d6NH_4iZwWQW-54">
           <mxGeometry x="183" width="113" height="110" as="geometry">
             <mxRectangle width="113" height="110" as="alternateBounds" />
           </mxGeometry>
@@ -418,7 +418,7 @@
             <mxRectangle width="114" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-bmnZo9d6NH_4iZwWQW-70" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="r-bmnZo9d6NH_4iZwWQW-67">
+        <mxCell id="r-bmnZo9d6NH_4iZwWQW-70" value="MAE: 0.7699&amp;nbsp;&lt;div&gt;RMSE: 0.9720 Pearson: 0.0755 Spearman: 0.0643&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="r-bmnZo9d6NH_4iZwWQW-67">
           <mxGeometry x="183" width="113" height="110" as="geometry">
             <mxRectangle width="113" height="110" as="alternateBounds" />
           </mxGeometry>
