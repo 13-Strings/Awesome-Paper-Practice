@@ -38,7 +38,7 @@
             <mxRectangle width="240" height="139" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4ZqjtpzjId1U-RPix7e-9" value="&lt;div&gt;PCC: 0.7874&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Spearman Correlation: 0.7247&lt;/span&gt;&lt;/div&gt;&lt;div&gt;R2: 0.6134&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="W4ZqjtpzjId1U-RPix7e-6">
+        <mxCell id="W4ZqjtpzjId1U-RPix7e-9" value="&lt;div&gt;PCC: 0.7874&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Spearman Correlation: 0.7247&lt;/span&gt;&lt;/div&gt;&lt;div&gt;R2: 0.6134&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HR: 1.0016 (95% CI: 0.4379-2.2907)&lt;/div&gt;&lt;div&gt;P-value: 0.997001&lt;/div&gt;&lt;div&gt;PCC: -0.11032582966885264&lt;/div&gt;&lt;div&gt;R2: -2.3371269702911377&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="W4ZqjtpzjId1U-RPix7e-6">
           <mxGeometry x="490" width="240" height="139" as="geometry">
             <mxRectangle width="240" height="139" as="alternateBounds" />
           </mxGeometry>
