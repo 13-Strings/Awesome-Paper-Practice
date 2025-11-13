@@ -108,7 +108,7 @@
             <mxRectangle width="250" height="139" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4ZqjtpzjId1U-RPix7e-25" value="&lt;div&gt;PCC: 0.8133&lt;/div&gt;&lt;div&gt;Spearman Correlation: 0.7937&lt;/div&gt;&lt;div&gt;R2: 0.6061&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HR: 3.01 (95% CI: 1.19-7.60)&lt;/div&gt;&lt;div&gt;P-value: 0.019948&lt;/div&gt;&lt;div&gt;PCC: 0.02776492102941774&lt;/div&gt;&lt;div&gt;R2: -2.336897850036621&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="W4ZqjtpzjId1U-RPix7e-23">
+        <mxCell id="W4ZqjtpzjId1U-RPix7e-25" value="&lt;div&gt;PCC: 0.8014&lt;/div&gt;&lt;div&gt;Spearman Correlation: 0.7835&lt;/div&gt;&lt;div&gt;R2: 0.4766&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HR: 2.67 (95% CI: 1.10-6.44)&lt;/div&gt;&lt;div&gt;P-value: 0.029177&lt;/div&gt;&lt;div&gt;PCC: 0.03878490312690166&lt;/div&gt;&lt;div&gt;R2: -2.336672782897949&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="W4ZqjtpzjId1U-RPix7e-23">
           <mxGeometry x="250" width="240" height="139" as="geometry">
             <mxRectangle width="240" height="139" as="alternateBounds" />
           </mxGeometry>
@@ -144,7 +144,7 @@
             <mxRectangle width="250" height="139" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W4ZqjtpzjId1U-RPix7e-33" value="&lt;div&gt;PCC: 0.5668&lt;/div&gt;&lt;div&gt;Spearman Correlation : 0.5801&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;R2 : 0.2857&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HR: 2.23 (95% CI: 0.97-5.11)&lt;/div&gt;&lt;div&gt;P-value: 0.058802&lt;/div&gt;&lt;div&gt;PCC: 0.08268539512789888&lt;/div&gt;&lt;div&gt;R2: -2.339670181274414&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="W4ZqjtpzjId1U-RPix7e-31">
+        <mxCell id="W4ZqjtpzjId1U-RPix7e-33" value="&lt;div&gt;PCC : 0.3684&lt;/div&gt;&lt;div&gt;Spearman Correlation : 0.1783&lt;/div&gt;&lt;div&gt;R2 : -0.4647&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HR: 2.24 (95% CI: 0.83-6.03)&lt;/div&gt;&lt;div&gt;P-value: 0.111287&lt;/div&gt;&lt;div&gt;PCC: 0.056692342030011174&lt;/div&gt;&lt;div&gt;R2: -2.3380725383758545&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="W4ZqjtpzjId1U-RPix7e-31">
           <mxGeometry x="250" width="240" height="139" as="geometry">
             <mxRectangle width="240" height="139" as="alternateBounds" />
           </mxGeometry>
