@@ -381,7 +381,7 @@
             <mxRectangle height="60" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZVHROiTZHbL66UTGoTO-82" parent="tZVHROiTZHbL66UTGoTO-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="tZVHROiTZHbL66UTGoTO-82" parent="tZVHROiTZHbL66UTGoTO-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="PharmaFormer&lt;div&gt;cell fc增强&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="190" x="310" as="geometry">
             <mxRectangle height="60" width="190" as="alternateBounds" />
           </mxGeometry>
