@@ -366,7 +366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-78" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="2150" y="1060" width="930" height="820" as="geometry" />
+          <mxGeometry x="1400" y="1050" width="930" height="820" as="geometry" />
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tZVHROiTZHbL66UTGoTO-78" vertex="1">
           <mxGeometry width="930" height="60" as="geometry" />
