@@ -559,7 +559,7 @@
         <mxCell id="PsBOFlZgaNuMwBtjbZ7_-19" parent="PsBOFlZgaNuMwBtjbZ7_-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="60" width="860" as="geometry" />
         </mxCell>
-        <mxCell id="PsBOFlZgaNuMwBtjbZ7_-20" parent="PsBOFlZgaNuMwBtjbZ7_-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="GPS-Triplet" vertex="1">
+        <mxCell id="PsBOFlZgaNuMwBtjbZ7_-20" parent="PsBOFlZgaNuMwBtjbZ7_-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="GPS-Triplet-aggregate" vertex="1">
           <mxGeometry height="60" width="172" as="geometry">
             <mxRectangle height="60" width="172" as="alternateBounds" />
           </mxGeometry>
