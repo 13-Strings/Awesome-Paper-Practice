@@ -564,7 +564,7 @@
             <mxRectangle height="60" width="172" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PsBOFlZgaNuMwBtjbZ7_-21" parent="PsBOFlZgaNuMwBtjbZ7_-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="PsBOFlZgaNuMwBtjbZ7_-21" parent="PsBOFlZgaNuMwBtjbZ7_-19" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="GPS-trans" vertex="1">
           <mxGeometry height="60" width="172" x="172" as="geometry">
             <mxRectangle height="60" width="172" as="alternateBounds" />
           </mxGeometry>
@@ -592,7 +592,7 @@
             <mxRectangle height="300" width="172" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PsBOFlZgaNuMwBtjbZ7_-27" parent="PsBOFlZgaNuMwBtjbZ7_-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="PsBOFlZgaNuMwBtjbZ7_-27" parent="PsBOFlZgaNuMwBtjbZ7_-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;PCC: 0.7850&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Spearman Correlation: 0.7029&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil:&lt;/div&gt;&lt;div&gt;HR: 1.79 (95% CI: 0.80-4.00)&lt;/div&gt;&lt;div&gt;P-value: 0.1566&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.49 (95% CI: 0.63-3.55)&lt;/div&gt;&lt;div&gt;P-value: 0.3670&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 2.99 (95% CI: 0.91-9.80)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;P-value: 0.0710&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 2.23 (95% CI: 0.85-5.86)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;P-value: 0.1051&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="300" width="172" x="172" as="geometry">
             <mxRectangle height="300" width="172" as="alternateBounds" />
           </mxGeometry>
