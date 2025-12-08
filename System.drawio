@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.4">
   <diagram name="第 1 页" id="uEGeb6amiN5KkIGwusvR">
-    <mxGraphModel dx="567" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="801" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,6 +113,9 @@
         </mxCell>
         <mxCell id="-PaluXot7q5OKWhVVv5R-50" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#060606;" value="Mobile 1/Mobile 2" vertex="1">
           <mxGeometry height="70" width="40" x="180" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="75AURZpo_y6RkE34G7jx-1" edge="1" parent="1" source="-PaluXot7q5OKWhVVv5R-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#8A42FF);" target="-PaluXot7q5OKWhVVv5R-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-PaluXot7q5OKWhVVv5R-52" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="Kinesis Data Streams" vertex="1">
           <mxGeometry height="30" width="130" x="135" y="740" as="geometry" />
