@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.3">
   <diagram name="第 1 页" id="flt9cSlEX_h_QOXmPoWD">
-    <mxGraphModel dx="1535" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1450" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-53" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="820" width="930" x="2150" y="210" as="geometry" />
+          <mxGeometry height="970" width="930" x="2150" y="210" as="geometry" />
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-54" parent="tZVHROiTZHbL66UTGoTO-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="60" width="930" as="geometry" />
@@ -262,13 +262,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-56" parent="tZVHROiTZHbL66UTGoTO-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="PharmaFormer&lt;div&gt;复现&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="190" x="120" as="geometry">
-            <mxRectangle height="60" width="190" as="alternateBounds" />
+          <mxGeometry height="60" width="200" x="120" as="geometry">
+            <mxRectangle height="60" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-57" parent="tZVHROiTZHbL66UTGoTO-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="PharmaFormer&lt;div&gt;报道&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="190" x="310" as="geometry">
-            <mxRectangle height="60" width="190" as="alternateBounds" />
+          <mxGeometry height="60" width="180" x="320" as="geometry">
+            <mxRectangle height="60" width="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-58" parent="tZVHROiTZHbL66UTGoTO-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="DrugVNN" vertex="1">
@@ -282,35 +282,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-60" parent="tZVHROiTZHbL66UTGoTO-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="270" width="930" y="60" as="geometry" />
+          <mxGeometry height="420" width="930" y="60" as="geometry" />
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-61" parent="tZVHROiTZHbL66UTGoTO-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Pretrain" vertex="1">
-          <mxGeometry height="270" width="120" as="geometry">
-            <mxRectangle height="270" width="120" as="alternateBounds" />
+          <mxGeometry height="420" width="120" as="geometry">
+            <mxRectangle height="420" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZVHROiTZHbL66UTGoTO-62" parent="tZVHROiTZHbL66UTGoTO-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;PCC: 0.8091&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Spearman Correlation: 0.7835&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil:&lt;/div&gt;&lt;div&gt;HR: 1.74 (95% CI: 0.68-4.42)&lt;/div&gt;&lt;div&gt;P-value: 0.2467&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.57 (95% CI: 0.36-6.82)&lt;/div&gt;&lt;div&gt;P-value: 0.5478&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.26 (95% CI: 0.55-2.90)&lt;/div&gt;&lt;div&gt;P-value: 0.5862&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;HR: 3.69&amp;nbsp;&lt;/b&gt;&lt;/u&gt;(95% CI: 0.50-27.36)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;P-value: 0.2010&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="270" width="190" x="120" as="geometry">
-            <mxRectangle height="270" width="190" as="alternateBounds" />
+        <mxCell id="tZVHROiTZHbL66UTGoTO-62" parent="tZVHROiTZHbL66UTGoTO-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;PCC: 0.8436&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Spearman Correlation: 0.7888&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5874&lt;/div&gt;&lt;div&gt;AUPR: 0.2250&lt;/div&gt;&lt;div&gt;HR: 2.04(95% CI: 0.91-4.56)&lt;/div&gt;&lt;div&gt;P-value: 0.0841&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Oxaliplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.4626&lt;/div&gt;&lt;div&gt;AUPR: 0.1720&lt;/div&gt;&lt;div&gt;HR: 1.38(95% CI: 0.57-3.34)&lt;/div&gt;&lt;div&gt;P-value: 0.4739&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Gemcitabine&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5136&lt;/div&gt;&lt;div&gt;AUPR: 0.3846&lt;/div&gt;&lt;div&gt;HR: 2.56(95% CI: 0.78-8.38)&lt;/div&gt;&lt;div&gt;P-value: 0.1206&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Cisplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5392&lt;/div&gt;&lt;div&gt;AUPR: 0.3912&lt;/div&gt;&lt;div&gt;HR: 2.04(95% CI: 0.78-5.35)&lt;/div&gt;&lt;div&gt;P-value: 0.1489&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="420" width="200" x="120" as="geometry">
+            <mxRectangle height="420" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-63" parent="tZVHROiTZHbL66UTGoTO-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;PCC: 0.742&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil:&lt;/div&gt;&lt;div&gt;HR: 2.50 (95% CI: 1.12-5.59)&lt;/div&gt;&lt;div&gt;P-value: 0.0252&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.95 (95% CI: 0.82-4.63)&lt;/div&gt;&lt;div&gt;P-value: 0.1279&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.73 (95% CI: 0.85-3.52)&lt;/div&gt;&lt;div&gt;P-value: 0.1283&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.79 (95% CI: 0.68-4.72)&lt;/div&gt;&lt;div&gt;P-value: 0.2362&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="270" width="190" x="310" as="geometry">
-            <mxRectangle height="270" width="190" as="alternateBounds" />
+          <mxGeometry height="420" width="180" x="320" as="geometry">
+            <mxRectangle height="420" width="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-64" parent="tZVHROiTZHbL66UTGoTO-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;PCC: 0.8091&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Spearman Correlation: 0.7835&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil:&lt;/div&gt;&lt;div&gt;HR: 1.74 (95% CI: 0.68-4.42)&lt;/div&gt;&lt;div&gt;P-value: 0.2467&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.57 (95% CI: 0.36-6.82)&lt;/div&gt;&lt;div&gt;P-value: 0.5478&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.26 (95% CI: 0.55-2.90)&lt;/div&gt;&lt;div&gt;P-value: 0.5862&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;HR: 3.69&amp;nbsp;&lt;/b&gt;&lt;/u&gt;(95% CI: 0.50-27.36)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;P-value: 0.2010&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="270" width="210" x="500" as="geometry">
-            <mxRectangle height="270" width="210" as="alternateBounds" />
+          <mxGeometry height="420" width="210" x="500" as="geometry">
+            <mxRectangle height="420" width="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-65" parent="tZVHROiTZHbL66UTGoTO-60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;PCC: 0.8091&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Spearman Correlation: 0.7835&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil:&lt;/div&gt;&lt;div&gt;HR: 1.74 (95% CI: 0.68-4.42)&lt;/div&gt;&lt;div&gt;P-value: 0.2467&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.57 (95% CI: 0.36-6.82)&lt;/div&gt;&lt;div&gt;P-value: 0.5478&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 1.26 (95% CI: 0.55-2.90)&lt;/div&gt;&lt;div&gt;P-value: 0.5862&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;HR: 3.69&amp;nbsp;&lt;/b&gt;&lt;/u&gt;(95% CI: 0.50-27.36)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;P-value: 0.2010&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="270" width="220" x="710" as="geometry">
-            <mxRectangle height="270" width="220" as="alternateBounds" />
+          <mxGeometry height="420" width="220" x="710" as="geometry">
+            <mxRectangle height="420" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-66" parent="tZVHROiTZHbL66UTGoTO-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="90" width="930" y="330" as="geometry" />
+          <mxGeometry height="90" width="930" y="480" as="geometry" />
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-67" parent="tZVHROiTZHbL66UTGoTO-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Finetune" vertex="1">
           <mxGeometry height="90" width="120" as="geometry">
@@ -318,13 +318,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-68" parent="tZVHROiTZHbL66UTGoTO-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="90" width="190" x="120" as="geometry">
-            <mxRectangle height="90" width="190" as="alternateBounds" />
+          <mxGeometry height="90" width="200" x="120" as="geometry">
+            <mxRectangle height="90" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-69" parent="tZVHROiTZHbL66UTGoTO-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="90" width="190" x="310" as="geometry">
-            <mxRectangle height="90" width="190" as="alternateBounds" />
+          <mxGeometry height="90" width="180" x="320" as="geometry">
+            <mxRectangle height="90" width="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-70" parent="tZVHROiTZHbL66UTGoTO-66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
@@ -338,7 +338,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-72" parent="tZVHROiTZHbL66UTGoTO-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="400" width="930" y="420" as="geometry" />
+          <mxGeometry height="400" width="930" y="570" as="geometry" />
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-73" parent="tZVHROiTZHbL66UTGoTO-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Pretrain+Finetune" vertex="1">
           <mxGeometry height="400" width="120" as="geometry">
@@ -346,13 +346,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-74" parent="tZVHROiTZHbL66UTGoTO-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;5-Fluorouracil:&lt;/div&gt;&lt;div&gt;HR: 2.05 (95% CI: 0.90-4.70)&lt;/div&gt;&lt;div&gt;P-value: 0.0890&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin:&lt;/div&gt;&lt;div&gt;HR: 1.89 (95% CI: 0.68-5.24)&lt;/div&gt;&lt;div&gt;P-value: 0.2236&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine:&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;HR: 6.07&lt;/b&gt;&lt;/u&gt;&amp;nbsp;(95% CI: 1.45-25.35)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;P-value: 0.0134&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin:&lt;/div&gt;&lt;div&gt;HR: 5.08 (95% CI: 1.21-21.36)&lt;/div&gt;&lt;div&gt;P-value: 0.0265&lt;/div&gt;" vertex="1">
-          <mxGeometry height="400" width="190" x="120" as="geometry">
-            <mxRectangle height="400" width="190" as="alternateBounds" />
+          <mxGeometry height="400" width="200" x="120" as="geometry">
+            <mxRectangle height="400" width="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-75" parent="tZVHROiTZHbL66UTGoTO-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil:&lt;/div&gt;&lt;div&gt;HR: 3.80 (95% CI: 1.54-9.39)&lt;/div&gt;&lt;div&gt;P-value: 0.0037&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 4.49 (95% CI: 1.75-11.47)&lt;/div&gt;&lt;div&gt;P-value: 0.0016&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 4.93 (95% CI: 1.18-20.59)&lt;/div&gt;&lt;div&gt;P-value: 0.0286&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 6.01 (95% CI: 1.42-25.16)&lt;/div&gt;&lt;div&gt;P-value: 0.0145&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="400" width="190" x="310" as="geometry">
-            <mxRectangle height="400" width="190" as="alternateBounds" />
+          <mxGeometry height="400" width="180" x="320" as="geometry">
+            <mxRectangle height="400" width="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZVHROiTZHbL66UTGoTO-76" parent="tZVHROiTZHbL66UTGoTO-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil:&lt;/div&gt;&lt;div&gt;HR: 3.80 (95% CI: 1.54-9.39)&lt;/div&gt;&lt;div&gt;P-value: 0.0037&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 4.49 (95% CI: 1.75-11.47)&lt;/div&gt;&lt;div&gt;P-value: 0.0016&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 4.93 (95% CI: 1.18-20.59)&lt;/div&gt;&lt;div&gt;P-value: 0.0286&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin:&lt;/div&gt;&lt;div&gt;&lt;div&gt;HR: 6.01 (95% CI: 1.42-25.16)&lt;/div&gt;&lt;div&gt;P-value: 0.0145&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -669,7 +669,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FsVtjqnOVmSI2HGY7Qyf-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" value="" vertex="1">
-          <mxGeometry height="820.0000000000009" width="220" x="3080" y="210" as="geometry" />
+          <mxGeometry height="970.0000000000009" width="220" x="3080" y="210" as="geometry" />
         </mxCell>
         <mxCell id="FsVtjqnOVmSI2HGY7Qyf-2" parent="FsVtjqnOVmSI2HGY7Qyf-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="60" width="220" as="geometry" />
@@ -680,15 +680,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FsVtjqnOVmSI2HGY7Qyf-4" parent="FsVtjqnOVmSI2HGY7Qyf-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="270" width="220" y="60" as="geometry" />
+          <mxGeometry height="420" width="220" y="60" as="geometry" />
         </mxCell>
         <mxCell id="FsVtjqnOVmSI2HGY7Qyf-5" parent="FsVtjqnOVmSI2HGY7Qyf-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="PCC: 0.8334&lt;br&gt;Spearman Correlation: 0.7863" vertex="1">
-          <mxGeometry height="270" width="220" as="geometry">
-            <mxRectangle height="270" width="220" as="alternateBounds" />
+          <mxGeometry height="420" width="220" as="geometry">
+            <mxRectangle height="420" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FsVtjqnOVmSI2HGY7Qyf-6" parent="FsVtjqnOVmSI2HGY7Qyf-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="90" width="220" y="330" as="geometry" />
+          <mxGeometry height="90" width="220" y="480" as="geometry" />
         </mxCell>
         <mxCell id="FsVtjqnOVmSI2HGY7Qyf-7" parent="FsVtjqnOVmSI2HGY7Qyf-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="90" width="220" as="geometry">
@@ -696,7 +696,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FsVtjqnOVmSI2HGY7Qyf-8" parent="FsVtjqnOVmSI2HGY7Qyf-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="400" width="220" y="420" as="geometry" />
+          <mxGeometry height="400" width="220" y="570" as="geometry" />
         </mxCell>
         <mxCell id="FsVtjqnOVmSI2HGY7Qyf-9" parent="FsVtjqnOVmSI2HGY7Qyf-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;div&gt;5-Fluorouracil&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6278&lt;/div&gt;&lt;div&gt;AUPR: 0.2794&lt;/div&gt;&lt;div&gt;HR: 2.72 (95% CI: 1.20-6.15&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;P-value: 0.0167&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Oxaliplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5981&lt;/div&gt;&lt;div&gt;AUPR: 0.2646&lt;/div&gt;&lt;div&gt;HR: 2.28 (95% CI: 0.92-5.67&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;P-value: 0.0766&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Gemcitabine&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5752&lt;/div&gt;&lt;div&gt;AUPR: 0.4117&lt;/div&gt;&lt;div&gt;HR: 2.34 (95% CI: 0.90-6.06&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;P-value: 0.0802&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Cisplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6170&lt;/div&gt;&lt;div&gt;AUPR: 0.4218&lt;/div&gt;&lt;div&gt;HR: 3.04 (95% CI: 1.39-6.63)&lt;/div&gt;&lt;div&gt;P-value: 0.0053&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="400" width="220" as="geometry">
