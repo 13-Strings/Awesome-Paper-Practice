@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.6">
   <diagram name="第 1 页" id="flt9cSlEX_h_QOXmPoWD">
-    <mxGraphModel dx="961" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1841" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -561,7 +561,7 @@
         <mxCell id="bSzEkMcY-mq7AHRHi6ZO-13" parent="bSzEkMcY-mq7AHRHi6ZO-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="415" width="260" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="bSzEkMcY-mq7AHRHi6ZO-14" parent="bSzEkMcY-mq7AHRHi6ZO-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="bSzEkMcY-mq7AHRHi6ZO-14" parent="bSzEkMcY-mq7AHRHi6ZO-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;5-Fluorouracil&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6100&lt;/div&gt;&lt;div&gt;AUPR: 0.2687&lt;/div&gt;&lt;div&gt;HR: 3.42(95% CI: 1.48-7.87)&lt;/div&gt;&lt;div&gt;P-value: 0.0039&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oxaliplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5897&lt;/div&gt;&lt;div&gt;AUPR: 0.2620&lt;/div&gt;&lt;div&gt;HR: 2.05(95% CI: 0.83-5.11)&lt;/div&gt;&lt;div&gt;P-value: 0.1218&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gemcitabine&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6008&lt;/div&gt;&lt;div&gt;AUPR: 0.4312&lt;/div&gt;&lt;div&gt;HR: 3.01(95% CI: 1.30-6.98)&lt;/div&gt;&lt;div&gt;P-value: 0.0103&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cisplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6314&lt;/div&gt;&lt;div&gt;AUPR: 0.4964&lt;/div&gt;&lt;div&gt;HR: 3.19(95% CI: 1.22-8.38)&lt;/div&gt;&lt;div&gt;P-value: 0.0184&lt;/div&gt;" vertex="1">
           <mxGeometry height="415" width="260" as="geometry">
             <mxRectangle height="415" width="260" as="alternateBounds" />
           </mxGeometry>
