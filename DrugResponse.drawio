@@ -763,7 +763,7 @@
         <mxCell id="b_Xvo8ArgEhz3HLd60WT-2" parent="b_Xvo8ArgEhz3HLd60WT-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="100" width="1220" as="geometry" />
         </mxCell>
-        <mxCell id="b_Xvo8ArgEhz3HLd60WT-3" parent="b_Xvo8ArgEhz3HLd60WT-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="pharmaFormer finetune_lr=1e-5" vertex="1">
+        <mxCell id="b_Xvo8ArgEhz3HLd60WT-3" parent="b_Xvo8ArgEhz3HLd60WT-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="pharmaFormer finetune_lr=1e-5&lt;div&gt;3.09&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="203" as="geometry">
             <mxRectangle height="100" width="203" as="alternateBounds" />
           </mxGeometry>
@@ -773,7 +773,7 @@
             <mxRectangle height="100" width="204" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_Xvo8ArgEhz3HLd60WT-5" parent="b_Xvo8ArgEhz3HLd60WT-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="pharmaFormer finetune_lr=1e-6" vertex="1">
+        <mxCell id="b_Xvo8ArgEhz3HLd60WT-5" parent="b_Xvo8ArgEhz3HLd60WT-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="pharmaFormer finetune_lr=1e-6&lt;div&gt;2.54&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="203" x="407" as="geometry">
             <mxRectangle height="100" width="203" as="alternateBounds" />
           </mxGeometry>
