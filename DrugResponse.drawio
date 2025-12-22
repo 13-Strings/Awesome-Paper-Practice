@@ -821,7 +821,7 @@
             <mxRectangle height="379" width="204" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_Xvo8ArgEhz3HLd60WT-15" parent="b_Xvo8ArgEhz3HLd60WT-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;1e-6&lt;/div&gt;&lt;div&gt;5e-6&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;&lt;i&gt;7e-6&lt;/i&gt;&lt;/u&gt;&lt;/span&gt;&lt;div&gt;1e-5&lt;div&gt;&lt;i&gt;&lt;u&gt;5e-5&lt;/u&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;i&gt;1e-4&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="b_Xvo8ArgEhz3HLd60WT-15" parent="b_Xvo8ArgEhz3HLd60WT-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;1e-6&lt;/div&gt;&lt;div&gt;3e-6&lt;/div&gt;&lt;div&gt;5e-6&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;&lt;i&gt;7e-6&lt;/i&gt;&lt;/u&gt;&lt;/span&gt;&lt;div&gt;1e-5&lt;div&gt;&lt;i&gt;&lt;u&gt;5e-5&lt;/u&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;i&gt;1e-4&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="379" width="203" x="1017" as="geometry">
             <mxRectangle height="379" width="203" as="alternateBounds" />
           </mxGeometry>
