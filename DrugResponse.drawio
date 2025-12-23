@@ -885,7 +885,7 @@
             <mxRectangle height="90" width="178" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_Xvo8ArgEhz3HLd60WT-29" parent="b_Xvo8ArgEhz3HLd60WT-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="pharmaformer-finetune_lr=4e-6&lt;div&gt;feature_extractor_drop=0.5&lt;/div&gt;" vertex="1">
+        <mxCell id="b_Xvo8ArgEhz3HLd60WT-29" parent="b_Xvo8ArgEhz3HLd60WT-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="pharmaformer-finetune_lr=4e-6&lt;div&gt;feature_extractor_drop=0.5&lt;/div&gt;&lt;div&gt;1.9525&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="179" x="715" as="geometry">
             <mxRectangle height="90" width="179" as="alternateBounds" />
           </mxGeometry>
@@ -971,7 +971,7 @@
             <mxRectangle height="400" width="178" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_Xvo8ArgEhz3HLd60WT-47" parent="b_Xvo8ArgEhz3HLd60WT-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;5-Fluorouracil&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6270&lt;/div&gt;&lt;div&gt;AUPR: 0.2920&lt;/div&gt;&lt;div&gt;HR: 2.30(95% CI: 1.03-5.13)&lt;/div&gt;&lt;div&gt;P-value: 0.0423&lt;/div&gt;" vertex="1">
+        <mxCell id="b_Xvo8ArgEhz3HLd60WT-47" parent="b_Xvo8ArgEhz3HLd60WT-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;5-Fluorouracil&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6270&lt;/div&gt;&lt;div&gt;AUPR: 0.2920&lt;/div&gt;&lt;div&gt;HR: 2.30(95% CI: 1.03-5.13)&lt;/div&gt;&lt;div&gt;P-value: 0.0423&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Oxaliplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5149&lt;/div&gt;&lt;div&gt;AUPR: 0.2024&lt;/div&gt;&lt;div&gt;HR: 1.72(95% CI: 0.50-5.90)&lt;/div&gt;&lt;div&gt;P-value: 0.3885&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Gemcitabine&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5861&lt;/div&gt;&lt;div&gt;AUPR: 0.4405&lt;/div&gt;&lt;div&gt;HR: 1.59(95% CI: 0.81-3.12)&lt;/div&gt;&lt;div&gt;P-value: 0.1812&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Cisplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5843&lt;/div&gt;&lt;div&gt;AUPR: 0.4639&lt;/div&gt;&lt;div&gt;HR: 2.20(95% CI: 1.05-4.58)&lt;/div&gt;&lt;div&gt;P-value: 0.0363&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="400" width="179" x="715" as="geometry">
             <mxRectangle height="400" width="179" as="alternateBounds" />
           </mxGeometry>
