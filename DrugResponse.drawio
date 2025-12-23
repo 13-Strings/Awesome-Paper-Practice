@@ -961,12 +961,12 @@
             <mxRectangle height="400" width="179" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_Xvo8ArgEhz3HLd60WT-45" parent="b_Xvo8ArgEhz3HLd60WT-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="b_Xvo8ArgEhz3HLd60WT-45" parent="b_Xvo8ArgEhz3HLd60WT-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;5-Fluorouracil&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6359&lt;/div&gt;&lt;div&gt;AUPR: 0.2769&lt;/div&gt;&lt;div&gt;HR: 2.09(95% CI: 0.90-4.90)&lt;/div&gt;&lt;div&gt;P-value: 0.0883&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Oxaliplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6415&lt;/div&gt;&lt;div&gt;AUPR: 0.2914&lt;/div&gt;&lt;div&gt;HR: 1.97(95% CI: 0.71-5.43)&lt;/div&gt;&lt;div&gt;P-value: 0.1912&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Gemcitabine&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.5844&lt;/div&gt;&lt;div&gt;AUPR: 0.4418&lt;/div&gt;&lt;div&gt;HR: 2.54(95% CI: 1.15-5.65)&lt;/div&gt;&lt;div&gt;P-value: 0.0217&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="400" width="179" x="358" as="geometry">
             <mxRectangle height="400" width="179" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_Xvo8ArgEhz3HLd60WT-46" parent="b_Xvo8ArgEhz3HLd60WT-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="b_Xvo8ArgEhz3HLd60WT-46" parent="b_Xvo8ArgEhz3HLd60WT-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;div&gt;5-Fluorouracil&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.6133&lt;/div&gt;&lt;div&gt;AUPR: 0.2438&lt;/div&gt;&lt;div&gt;HR: 1.94(95% CI: 0.72-5.20)&lt;/div&gt;&lt;div&gt;P-value: 0.1879&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Oxaliplatin&lt;/div&gt;&lt;div&gt;AUC (ROC): 0.4103&lt;/div&gt;&lt;div&gt;AUPR: 0.1512&lt;/div&gt;&lt;div&gt;HR: 1.56(95% CI: 0.21-11.92)&lt;/div&gt;&lt;div&gt;P-value: 0.6656&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="400" width="178" x="537" as="geometry">
             <mxRectangle height="400" width="178" as="alternateBounds" />
           </mxGeometry>
